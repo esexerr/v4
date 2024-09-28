@@ -15,9 +15,9 @@
 :root {
     --text: #d8d8d8;
     --background: #151515;
-    --primary: #274dce;
+    --primary: #ffffff;
     --secondary: #2b2b2b;
-    --accent: #433bff;
+    --accent: #f3f3f3;
 }
 
 html,
@@ -147,7 +147,7 @@ body {
     font-family:'Times New Roman', Times, serif;
     margin-top: 0.5%;
     font-size: 32px;
-    color: #100dca;
+    color: #ffffff;
     text-shadow: 0px 0px 30px #0400ff;
 }
 
@@ -169,7 +169,7 @@ body {
     left: 9.2rem;
     height: 1.2rem;
     margin-top: 0.8%;
-    color: #100dca;
+    color: #ffffff;
     text-shadow: 0px 0px 2.5px #0400ff;
     font-size: 13px;
 }
